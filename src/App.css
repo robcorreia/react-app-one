@@ -8,6 +8,11 @@
   font-family: Questrial;
 }
 
+body {
+  color: #ffffff;
+  background: #38B69D;
+}
+
 table {
   width: 100%;
   max-width: 450px;
